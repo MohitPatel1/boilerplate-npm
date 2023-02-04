@@ -15,4 +15,5 @@
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "timepass", "chill" ],
 	"license": "MIT",
+	"version": "1.2.0"
 }
