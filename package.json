@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author" : "Mohit Patel"
+	"author" : "Mohit Patel",
+	"description": "A project that does something awesome"
 }
